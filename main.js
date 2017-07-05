@@ -1,4 +1,5 @@
 /* eslint-disable no-unused-vars */
+
 let isMoving = false
 
 class Car {
@@ -104,3 +105,4 @@ window.addEventListener('keydown', function () {
       break
   }
 })
+
