@@ -1,6 +1,10 @@
-#car {
+
+.car {
+  height: 200px;
   width: 200px;
-}
+  background: url(images/car.png) center no-repeat;
+  position: absolute;
+  background-size: contain;
 
 body {
   background-color: black;
